@@ -1,16 +1,24 @@
-# Portfolio ¡Hola, bienvenido a mi proyecto de portafolio!
+# 🎨 Portfolio | Proyecto de Práctica  
 
- 
-## Herramientas utilizadas:
+¡Hola, bienvenido a mi proyecto de portafolio! 🚀  
 
-* HTML
+Este es un proyecto de práctica desarrollado con **HTML, CSS y Flexbox**. Contiene dos páginas principales:  
 
-* CSS
+- 🏠 **Home**: Página principal del portafolio.  
+- ℹ️ **Sobre**: Sección con información adicional.  
 
-* Flex-box
+Por ahora, la información dentro del proyecto es simplemente demostrativa.  
 
-## Hecho por:
+---
 
-###Juan Sebatian Trujilo Estrada
+## 🛠 Herramientas utilizadas  
+- ✅ HTML  
+- ✅ CSS  
+- ✅ Flexbox  
 
-### Linkedin: [https://www.linkedin.com/school/aluracursos/](https://www.linkedin.com/in/juan-sebastian-estudiante-/)
+---
+
+## 📌 Cómo visualizar el proyecto  
+1. Clona este repositorio:  
+   ```sh
+   git clone https://github.com/TU-USUARIO/TU-REPOSITORIO.git](https://github.com/juansebastian9512/practica-css-html.git
